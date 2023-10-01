@@ -1,0 +1,15 @@
+C:\Users\Nitro 5\source\repos\choco\choco\bin\Debug\net6.0\choco.exe
+C:\Users\Nitro 5\source\repos\choco\choco\bin\Debug\net6.0\choco.deps.json
+C:\Users\Nitro 5\source\repos\choco\choco\bin\Debug\net6.0\choco.runtimeconfig.json
+C:\Users\Nitro 5\source\repos\choco\choco\bin\Debug\net6.0\choco.dll
+C:\Users\Nitro 5\source\repos\choco\choco\bin\Debug\net6.0\choco.pdb
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.csproj.AssemblyReference.cache
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.AssemblyInfoInputs.cache
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.AssemblyInfo.cs
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.csproj.CoreCompileInputs.cache
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.dll
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\refint\choco.dll
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.pdb
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\choco.genruntimeconfig.cache
+C:\Users\Nitro 5\source\repos\choco\choco\obj\Debug\net6.0\ref\choco.dll
